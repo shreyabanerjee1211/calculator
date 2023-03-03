@@ -1,2 +1,2 @@
 # calculator
-simple calculator using java swing
+simple calculator using java awt
